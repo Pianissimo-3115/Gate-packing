@@ -2,7 +2,7 @@
 
 This project focuses on comparing **gate packing algorithms**, with a special emphasis on the **Tetris-based algorithm**. The project includes visualizations and performance analysis across multiple test cases, demonstrating the efficiency of different approaches.
 
-## Unique Selling Point (USP)
+## USP
 
 The **Tetris-based algorithm** is the standout feature of this project, which was inspired by tetris game mechanics. Despite its **ridiculously simple implementation**, it consistently delivers better performance in terms of space optimization compared to more complex algorithms, such as the **Sleator algorithm**. This simplicity, combined with effectiveness, makes it the key innovation of this project.
 
