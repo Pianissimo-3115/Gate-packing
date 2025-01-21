@@ -25,6 +25,11 @@ We use a **Greedy algorithm**, similar to the one in Assignment 2, but with some
 
 3. **Cycle Detection**: To ensure valid inputs, we detect any infinite loops using a special function that checks for cycles in the gate connections. We verify the inputs by examining the size of the stack used during iteration.
 
+## What You Need
+
+- `tk`
+- `pillow`
+
 ## Input File Format
 
 Your input file should follow this format:
